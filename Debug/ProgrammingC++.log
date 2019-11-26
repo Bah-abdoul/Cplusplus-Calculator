@@ -1,0 +1,3 @@
+﻿  ProgrammingC++.cpp
+C:\Users\Toshiba\Desktop\c++\Cplusplus_project_5\ProgrammingC++\ProgrammingC++.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProgrammingC++.vcxproj -> C:\Users\Toshiba\Desktop\c++\Cplusplus_project_5\ProgrammingC++\Debug\ProgrammingC++.exe
